@@ -1,0 +1,5 @@
+2024-05-05 18:07:43.90.905558700 400 : [{"timestamp":"2024-05-05T22:07:43.847+00:00","status":400,"error":"Bad Request","message":"Validation failed for object='registerUserDto'. Error count: 2","errors":[{"codes":["NotEmpty.registerUserDto... (947 bytes)]
+2024-05-05 18:07:47.26.266202400 400 : [{"timestamp":"2024-05-05T22:07:47.263+00:00","status":400,"error":"Bad Request","message":"Validation failed for object='registerUserDto'. Error count: 2","errors":[{"codes":["NotEmpty.registerUserDto... (947 bytes)]
+2024-05-05 18:20:43.19.192454200 500 : [{"timestamp":"2024-05-05T22:20:43.180+00:00","status":500,"error":"Internal Server Error","message":"PreparedStatementCallback; SQL [INSERT INTO tenmo_user (username, password_hash) VALUES (?, ?) RETU... (524 bytes)]
+2024-05-05 18:20:47.84.846487700 401 : [no body]
+2024-05-05 18:20:54.44.445776800 401 : [no body]
